@@ -53,7 +53,7 @@ export async function generateMetadata(pageProps: PageProps): Promise<Metadata> 
     return notFound();
   }
 
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`;
+  const title = `${post.title} | Jerin Mathew's Musings`;
 
   return {
     title,

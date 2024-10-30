@@ -1,4 +1,4 @@
-# A statically generated blog example using Next.js, Markdown, and TypeScript
+# Some thoughts on software development and other random stuff.
 
 This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
 
